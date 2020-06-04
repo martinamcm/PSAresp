@@ -1,0 +1,17 @@
+---
+title: ""
+output: html_document
+---
+
+<font size="5"> **PSAresp:** Analysis of PSA responder endpoints </font>
+
+Welcome to the GUI for Prostate-Specific Antigen (PSA) response analyses.  The app facilitates the analysis of change in PSA score using both the standard binary approach and an augmented approach with increased efficiency. 
+
+A tutorial on how to use the app, R code and example data are available at <https://github.com/martinamcm/PSAresp>. 
+
+
+<font size="4"> **References** </font>
+
+Suissa S, Blais L. Binary regression with continuous outcomes. Stat Med. 1995;14:247-255.
+
+
