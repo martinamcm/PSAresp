@@ -22,12 +22,20 @@ An example dataset is available in the repository.
 
 The user begins by uploading a csv file containing only the % change from baseline in PSA scores. A waterfall plot displays the data as shown below. 
 
+<p align="center">
+<img src="/Images/WaterfallPlot.png" title="WaterfallPlot" width="80%" align="center"/>
+</p>
 
 In the 'Analysis' panel, the user sets the response threshold for % change in PSA and a point at which to truncate PSA scores. For instance if the truncation point is 100%, all PSA scores above this value will be replaced by 100. 
 
+<p align="center">
+<img src="/Images/PSAanalysis.png" title="PSAanalysis" width="80%" align="center"/>
+</p>
 
 Note that changing the truncation point changes the results for the augmented approach but not the binary approach. 
 
-
+<p align="center">
+<img src="/Images/PSAanalysisTrunc.png" title="PSAanalysisTrunc" width="80%" align="center"/>
+</p>
 
 
