@@ -20,7 +20,7 @@ An example dataset is available in the repository.
 
 ## Tutorial
 
-The user begins by uploading a csv file containing only the % change from baseline in PSA scores. A waterfall plot displays the data as shown below. 
+The user begins by uploading a csv file containing a single column with the % change from baseline in PSA scores. A waterfall plot displays the data as shown below. 
 
 <p align="center">
 <img src="/Images/WaterfallPlot.png" title="WaterfallPlot" width="80%" align="center"/>
@@ -29,13 +29,18 @@ The user begins by uploading a csv file containing only the % change from baseli
 In the 'Analysis' panel, the user sets the response threshold for % change in PSA and a point at which to truncate PSA scores. For instance if the truncation point is 100%, all PSA scores above this value will be replaced by 100. 
 
 <p align="center">
-<img src="/Images/PSAanalysis.png" title="PSAanalysis" width="80%" align="center"/>
+<img src="/Images/Analysis1.png" title="PSAanalysis" width="80%" align="center"/>
 </p>
 
 Note that changing the truncation point changes the results for the augmented approach but not the binary approach. 
 
 <p align="center">
-<img src="/Images/PSAanalysisTrunc.png" title="PSAanalysisTrunc" width="80%" align="center"/>
+<img src="/Images/Analysis2.png" title="PSAanalysisTrunc" width="80%" align="center"/>
 </p>
 
+Clicking the 'Download Report' button will generate a pdf file containing the results, as shown below. 
+
+<p align="center">
+<img src="/Images/PSAreport.pdf" title="PSAreport" width="80%" align="center"/>
+</p>
 
