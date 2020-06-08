@@ -38,7 +38,6 @@ Note that changing the truncation point changes the results for the augmented ap
 <img src="/Images/Analysis2.png" title="PSAanalysisTrunc" width="90%" align="center"/>
 </p>
 
-Clicking the 'Download Report' button will generate a pdf file containing the results, as shown below. 
+Clicking the 'Download Report' button will generate a pdf file containing the results. 
 
-![PSAreport](/Images/PSAreport.pdf){width=500px}
 
