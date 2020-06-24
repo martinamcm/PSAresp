@@ -29,15 +29,20 @@ The user begins by uploading a csv file containing a single column with the % ch
 In the 'Analysis' panel, the user sets the response threshold for % change in PSA and a point at which to truncate PSA scores. For instance if the truncation point is 100%, all PSA scores above this value will be replaced by 100. 
 
 <p align="center">
-<img src="/Images/Analysis1.png" title="PSAanalysis" width="90%" align="center"/>
+<img src="/Images/PSAanalysis.png" title="PSAanalysis" width="90%" align="center"/>
 </p>
 
 Note that changing the truncation point changes the results for the augmented approach but not the binary approach. 
 
 <p align="center">
-<img src="/Images/Analysis2.png" title="PSAanalysisTrunc" width="90%" align="center"/>
+<img src="/Images/PSAanalysisTrunc.png" title="PSAanalysisTrunc" width="90%" align="center"/>
 </p>
 
 Clicking the 'Download Report' button will generate a pdf file containing the results. 
+
+<p align="center">
+<img src="/Images/PSAreport.png" title="PSAreport" width="90%" align="center"/>
+</p>
+
 
 
