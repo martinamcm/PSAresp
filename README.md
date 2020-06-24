@@ -41,7 +41,7 @@ Note that changing the truncation point changes the results for the augmented ap
 Clicking the 'Download Report' button will generate a pdf file containing the results. 
 
 <p align="center">
-<img src="/Images/PSAreport.png" title="PSAreport" width="90%" align="center"/>
+<img src="/Images/PSAreport.png" title="PSAreport" width="70%" align="center"/>
 </p>
 
 
